@@ -28,4 +28,12 @@ for d in */; do
 done
 
 echo "✅ 모든 커스텀 노드 의존성 복구 완료"
-echo "🚀 다음 단계로 넘어갑니다"
+echo "🚀 Start Engine!"
+echo -e "\n====🎓 AI 교육 & 커뮤니티 안내====\n"
+echo -e "🧠 Youtube : https://www.youtube.com/@A01demort"
+echo -e "✅ 교육 문의 : https://a01demort.com"
+echo -e "✅ Udemy 강의 : https://bit.ly/comfyclass"
+echo -e "✅ Stable AI KOREA : https://cafe.naver.com/sdfkorea"
+echo -e "✅ 오픈채팅방 : https://open.kakao.com/o/gxvpv2Mf"
+echo -e "✅ CIVITAI : https://civitai.com/user/a01demort"
+echo -e "\n==================================="
